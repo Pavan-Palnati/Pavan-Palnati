@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pavan-Palnati
-- 👀 I’m intrested in Data Science And Python....
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
+👋 Hi, I’m Pavan Palnati.
+👀 I’m interested in Python, Data alalytics and Game designing.
+🌱 I’m currently learning Data analytics, ReactJS, Tableau.
+💞️ I love to work in team.
+📫 How to reach me pavankumarpalnati2001@gmail.com
 
 <!---
 Pavan-Palnati/Pavan-Palnati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
