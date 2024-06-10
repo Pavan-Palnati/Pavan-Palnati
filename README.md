@@ -1,6 +1,6 @@
 👋 Hi, I’m Pavan Palnati.
-👀 I’m interested in Python, Data alalytics and Game designing.
-🌱 I’m currently learning Data analytics, ReactJS, Tableau.
+👀 I’m interested in Data Alalytics
+🌱 I’m currently learning Data analytics, Odoo.
 💞️ I love to work in team.
 📫 How to reach me pavankumarpalnati2001@gmail.com
 
